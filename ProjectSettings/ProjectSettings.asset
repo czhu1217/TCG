@@ -774,10 +774,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 5218d0c0-d121-4973-8a51-8541b49c5c77
+  cloudProjectId: ccc79db6-5bea-4330-9b86-1d7d3f8069e9
   framebufferDepthMemorylessMode: 0
   projectName: myTCG
-  organizationId: cindyzhu0830
+  organizationId: dragos-2591358
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
